@@ -1,4 +1,3 @@
-// routes/userRoutes.js
 import express from 'express';
 import { requestLogger } from '../middleware/logger.js';
 import { validateUser } from '../middleware/validation.js';
